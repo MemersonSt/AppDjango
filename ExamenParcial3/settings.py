@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'App.Tareas',
     'App.Empleados',
     'App.Proyecto',
+    "App.Login"
 ]
 
 REST_FRAMEWORK = {
